@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="2" name="quotedbl">
-  <advance width="700" />
+  <advance width="600" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="186" y="392" />
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="168607169688186392214392231688232607368607369688386392414392431688432607700">
+        <hintSetList id="168607169688186392214392231688232607368607369688386392414392431688432607600">
           <hintset pointTag="hintSet0000">
             <hstem pos="392" width="296" />
             <vstem pos="177" width="46" />

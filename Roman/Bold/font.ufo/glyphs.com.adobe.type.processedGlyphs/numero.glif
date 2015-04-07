@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="2" name="numero">
-  <advance width="575" />
+  <advance width="600" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="1" y="-12" />
@@ -89,7 +89,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="dd81ca348a3c569cca5422cec8fb986f096d36aa315fb6be9f11b94fe1bd0b53dafde40a3e0d9c47c2cd2e4b4c52a8752caca5fe264408566c68a796d7a4f968">
+        <hintSetList id="25864bb19e682e04b23b73a8847c81761431e37c85ca929ace212c6c72f65e994871479e99d23c4dd2f1f7bda205477f1e9fdcd28c09d17412e2e36ed359807a">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="117" />
             <hstem pos="128" width="78" />
