@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookrhoticmod" format="1">
-  <advance width="164"/>
+  <advance width="600"/>
   <outline>
     <contour>
       <point x="146" y="232" type="curve" smooth="yes"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="2" name="exclamdbl">
-  <advance width="720" />
+  <advance width="600" />
   <unicode hex="203C" />
   <outline>
     <contour>
@@ -52,7 +52,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="78cf315a265f97aa7daa8667aef06749e1e16b936add72303b8f1bf70d3919f18fa318a73745e6b14737de03f032e247a026a47f80080683ec200215ea9227ca">
+        <hintSetList id="ba7eb054f548b630eb6b4c0233eba928c9c70e1f7ffaeea1b9a77b5f88680b0426ae6392b873301c48bd1a4cb40aea84c0514a4774a9a3bfdd80cf452ae0a9b2">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="684" />
             <vstem pos="76" width="104" />

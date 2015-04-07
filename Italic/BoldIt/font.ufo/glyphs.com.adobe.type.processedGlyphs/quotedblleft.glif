@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="2" name="quotedblleft">
-  <advance width="735" />
+  <advance width="600" />
   <unicode hex="201C" />
   <outline>
     <contour>
@@ -46,7 +46,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fe254d60a1d8082e576700b33311c20fd77a4cdd3d9532ee3dcbcd8f4596ece11c2b50ff79717a5b4b52e3d42cc939c070e306448123df985c3e7b2d4fd0b6e0">
+        <hintSetList id="b2761db757e37118859fa484cb3dcd0c0b588c2df54a56a2e8993eaa0321dec5c10d75ae23820e9bd0cadf638b21365f3a3b1d3d9096f3ba5a963d499db71e55">
           <hintset pointTag="hintSet0000">
             <hstem pos="314" width="194" />
             <vstem pos="86" width="208" />

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="2" name="gammalatinsupmod">
-  <advance width="309" />
+  <advance width="600" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="200" y="254" />
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="9800a1f98632ec48a535389f52f8cf6ec124eb425af7dc2e1d84bd893c751d06b80042c9e45388909c69680aa2b4a5cedf794eac3bf2aa0673d7a833edce1195">
+        <hintSetList id="6a987731a1c7b543a318d07f3dc877bead8e1bf11bb769669bc2123267913071d006fbce653290498989d6a413fb1f2511978f5181c5c67340fbe92e86d592bc">
           <hintset pointTag="hintSet0000">
             <hstem pos="254" width="28" />
             <vstem pos="152" width="276" />

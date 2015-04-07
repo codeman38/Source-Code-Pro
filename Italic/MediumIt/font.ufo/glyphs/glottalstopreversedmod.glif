@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="glottalstopreversedmod" format="1">
-  <advance width="425"/>
+  <advance width="600"/>
   <outline>
     <contour>
       <point x="239" y="390" type="line"/>

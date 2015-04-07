@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="2" name="colontriangularmod">
-  <advance width="530" />
+  <advance width="600" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="69" y="0" />
@@ -19,7 +19,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="1574811981812121812143002283002690357481530690">
+        <hintSetList id="1574811981812121812143002283002690357481600690">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="181" />
             <hstem pos="300" width="181" />
